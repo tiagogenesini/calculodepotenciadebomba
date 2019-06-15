@@ -1,0 +1,111 @@
+body{
+	font-family: 'Open Sans',sans-serif;
+	
+}
+#calculator{
+	width: 320px;
+	height: 520px;
+	background-color: #eaedef;
+	margin: 0 auto;
+	top: 20px;
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+h1{
+	font-size: 20px;
+	margin: 15px;
+	text-align: center;
+	padding-top: 20px;
+}
+h2{
+	font-size: 15px;
+	margin: 5px;
+	text-align: center;
+	color: #919191;
+}
+h3{
+	font-size: 15px;
+	margin: 10px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+#vazao{
+	text-align: center;
+	height: 25px;
+	font-size: 18px;
+	width: 100px;
+	margin: 5px;
+	border-radius: 5%;
+	position: relative;
+	left: 40px
+
+}
+
+#uvazao{
+	text-align: center;
+	height: 26px;
+	font-size: 18px;
+	width: 100px;
+	margin: 5px;
+	border-radius: 5%;
+	align-items: center;
+	position: relative;
+	left: 60px
+
+
+}
+
+#pressao{
+	text-align: center;
+	height: 25px;
+	font-size: 18px;
+	width: 100px;
+	margin: 5px;
+	border-radius: 5%;
+	position: relative;
+	left: 40px
+
+}
+
+#upressao{
+	text-align: center;
+	height: 26px;
+	font-size: 18px;
+	width: 100px;
+	margin: 5px;
+	border-radius: 5%;
+	align-items: center;
+	position: relative;
+	left: 60px
+
+}
+
+#eficiencia{
+	text-align: center;
+	height: 26px;
+	font-size: 18px;
+	width: 100px;
+	margin: 5px;
+	border-radius: 5%;
+	align-items: center;
+	position: relative;
+	left: 105px
+
+}
+
+button{
+  	display: flex;
+  	align-items: center;
+ 	justify-content: center;
+	width: 100px;
+	height: 50px;
+	margin: 15 auto;
+	border-radius: 10%;
+	border-width: 0;
+	font-weight: bold;
+	font-size: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
